@@ -1,0 +1,6 @@
+"main.obj",
+".\Delay.obj",
+".\UartMode1.obj" 
+TO "UartMode1_VXL1" 
+
+ru 
